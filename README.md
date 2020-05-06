@@ -1,2 +1,4 @@
 # hello-world
-Just another hell-world repository
+Just another hello-world repository
+
+Setting up this test to learn about merges, great fun!
